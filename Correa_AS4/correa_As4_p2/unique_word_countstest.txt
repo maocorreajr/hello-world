@@ -1,0 +1,7 @@
+iPhone occurs 3 times
+Money occurs 3 times
+Barcelona occurs 3 times
+Madrid occurs 2 times
+Home occurs 3 times
+Fifa occurs 3 times
+Sports occurs 3 times
